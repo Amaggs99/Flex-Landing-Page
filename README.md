@@ -6,7 +6,7 @@ This project is a basic landing page created using Flexbox layout. It demonstrat
 
 ## Demo
 
-You can view a live demo of the landing page [here](https://amaggs99.github.io/Odin-Landing-Page-Flexbox/).
+You can view a live demo of the landing page [here](https://amaggs99.github.io/Flex-Landing-Page/).
 
 ## Getting Started
 
